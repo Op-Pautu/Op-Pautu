@@ -1,4 +1,5 @@
-![Op's GitHub stats](https://github-readme-stats.vercel.app/api?username=op-pautu&show_icons=true&theme=tokyonight&hide_rank=true)
+<!-- ![Op's GitHub stats](https://github-readme-stats.vercel.app/api?username=op-pautu&show_icons=true&theme=tokyonight&hide_rank=true)
+-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=op-pautu&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 
