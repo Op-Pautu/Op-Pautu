@@ -1,5 +1,7 @@
 
-![](https://komarev.com/ghpvc/?username=op-pautu&color=dc143c)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=op-pautu)](https://git.io/streak-stats)
+
+
 <!--
 **Op-Pautu/Op-Pautu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
