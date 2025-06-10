@@ -1,6 +1,1 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=op-pautu" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=op-pautu&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats-phi-ashy.vercel.app/?user=op-pautu&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
